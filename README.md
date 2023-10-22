@@ -63,3 +63,7 @@ clase Estado
   - Tiene una asociación con "Cuenta" con multiplicidad 1.
 
 4.) Construya una primera versión de su diagrama de clases, usando Visual Paradigm.
+
+![uml-diagram](https://github.com/Diego-LC/e-shop_POO/blob/main/UML%20Class%20diagram%20e-shop.png)
+
+![IntelliJ-screenshot](https://github.com/Diego-LC/e-shop_POO/blob/main/e-shop%20IntelliJ%20screenshot.png)
